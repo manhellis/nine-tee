@@ -22,14 +22,19 @@ function App() {
                     </div>
                 </header>
                 <div className="subtitle underline">
-                    <h1>All About Me</h1>
+                    <h1 className="menu-header"><span>All</span><br /> About Us</h1>
+                    
                 </div>
-                <menu>
-                    <ul>
-                        <li>Home</li>
-                        <li>About</li>
-                        <li>Contact</li>
+                <menu><ul>
+                      <li>Generation Girls</li>
+                      <li>Gear</li>
+                      <li>Books</li>
+                      <li>Sends</li>
+                      <li>Games</li>
+                      <li>CD-Rom</li>
+                      <li>memory Keeper</li>
                     </ul>
+                    
                 </menu>
 
                 <div className="col">
